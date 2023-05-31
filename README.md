@@ -4,6 +4,8 @@ description: Appsmith is the fastest way to build internal apps over any databas
 
 # Introduction
 
+Hello from Hive
+
 ## Why Appsmith?
 
 Today when we need an internal app, our choices are limited to
@@ -19,11 +21,10 @@ Appsmith bridges the gap between [getting started](quick-start.md) super quickly
 
 Appsmith makes building internal tools as easy as
 
-* Drag and configure the UI \(No HTML / CSS!\)
+* Drag and configure the UI (No HTML / CSS!)
 * Connect APIs / Databases
 * Write snippets of business logic
 
 Check out our demo video to see how easy it is!
 
-{% embed url="https://youtu.be/-O\_6OLREEzo" caption="Turn on your speakers" %}
-
+{% embed url="https://youtu.be/-O:6OLREEzo" %}

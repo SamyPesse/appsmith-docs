@@ -4,7 +4,7 @@ description: Appsmith is the fastest way to build internal apps over any databas
 
 # Introduction
 
-Hello from Hive 3
+Hello from Hive 4
 
 ## Why Appsmith?
 

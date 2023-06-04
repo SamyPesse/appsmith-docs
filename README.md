@@ -1,10 +1,12 @@
 ---
-description: Appsmith is the fastest way to build internal apps over any database or API (test from Hive)
+description: >-
+  Appsmith is the fastest way to build internal apps over any database or API
+  (test from Hive)
 ---
 
 # Introduction
 
-Hello from Hive 5
+Hello from Hive 6
 
 ## Why Appsmith?
 

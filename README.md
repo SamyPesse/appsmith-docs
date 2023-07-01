@@ -6,7 +6,7 @@ description: >-
 
 # Introduction
 
-Hello from Hive 17 with history
+Hello from Hive 18 with history
 
 ## Why Appsmith?
 

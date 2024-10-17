@@ -6,7 +6,11 @@ description: >-
 
 # Introduction
 
-Hello from Hive 20 with frontend
+Hello from Hive 21 with frontend
+
+<figure><img src=".gitbook/assets/Screenshot 2024-10-17 at 08.29.39.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Why Appsmith?
 

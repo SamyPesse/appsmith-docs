@@ -12,8 +12,10 @@ Come up with an idea to bring to life on Appsmith. This could be a personal app 
 * Employee Referral Portal
 * Leave Tracker
 
+added paragraph
+
 {% hint style="info" %}
-A clear idea will help bring your app to life faster! 
+A clear idea will help bring your app to life faster!
 {% endhint %}
 
 ## Build the UI
@@ -37,4 +39,3 @@ You can refer to widget & API data using their name inside **`{{ }}`**. You can 
 ## Deploy your App!
 
 Once your app works the way you want it to, deploy it with the "Publish" option on the top-right corner. Published apps can be shared with your team.
-

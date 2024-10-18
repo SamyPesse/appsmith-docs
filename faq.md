@@ -6,25 +6,9 @@ description: You may have these questions and we want to answer.
 
 ## What type of apps are built on Appsmith?
 
+{% include ".gitbook/includes/intro-stepper.md" %}
+
 You can use Appsmith to build internal tools that need to access and update data. Tools like customer support dashboards, offer management consoles & product cataloging systems are all prime use cases for Appsmith. You can also use it as a clean UI layer over manually triggered scripts, confusing deployment pipelines & basic database CRUD operations. There's very little preventing you from using Appsmith to bring any idea to life but we've optimised the product to make building internal tools a hassle free experience.
-
-{% stepper %}
-{% step %}
-### Hello
-
-```
-// Some code
-```
-{% endstep %}
-
-{% step %}
-### World
-
-```
-// Some code another
-```
-{% endstep %}
-{% endstepper %}
 
 ## How is Appsmith different from other app builders?
 
